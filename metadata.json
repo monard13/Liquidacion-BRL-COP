@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Liquidación PWA",
+  "description": "Una Progressive Web App para calcular una liquidación financiera y convertir el total de COP a BRL utilizando una tasa de cambio en tiempo real obtenida a través de la API de Gemini con búsqueda de Google.",
+  "requestFramePermissions": []
+}
